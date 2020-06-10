@@ -1,5 +1,5 @@
-**pasd-ap-comp-sci-a**  
+**Help with pasd-ap-comp-sci-a**  
 
-Tyler's AP Comp Sci labs. 
+Help with Tyler's AP Comp Sci labs. 
 
 
